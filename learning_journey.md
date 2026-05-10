@@ -1,15 +1,15 @@
 # ML + GIS Learning Journey
 
-**Current position: Step 0b (as of 2026-05-10)**
+**Current position: Step 1a (as of 2026-05-10)**
 
 ## Phase 0 — Hello World with local LLMs
 - 0a. Run Ollama locally — pull a model, query it from terminal  ✓
-- 0b. Query Ollama from Python — understand the API  ← CURRENT
-- 0c. Build a minimal chatbot (CLI, no UI) using Ollama
-- 0d. Add memory/context to the chatbot (conversation history)
+- 0b. Query Ollama from Python — understand the API  ✓
+- 0c. Build a minimal chatbot (CLI, no UI) using Ollama  ✓
+- 0d. Add memory/context to the chatbot (conversation history)  ✓
 
 ## Phase 1 — Customization and fine-tuning
-- 1a. Fine-tune or prompt-engineer a model on custom text data (includes LoRA)
+- 1a. Fine-tune or prompt-engineer a model on custom text data (includes LoRA)  ← CURRENT
 - 1b. Feed structured data (MySQL) into a model pipeline
 - 1c. Feed GIS data (shapefiles) — understand spatial-to-text conversion
 - 1d. Fine-tune a pretrained geospatial vision model (Prithvi-EO-2.0 + LoRA) on wetland data (Sentinel-2 + aerial RGB, binary water classification)
